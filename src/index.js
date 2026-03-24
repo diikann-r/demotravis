@@ -9,7 +9,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.status(200).json({
         group: 'Nhóm 11',
-        topic: 'Tìm hiểu và Demo Travis CI',
+        topic: 'Tìm hiểu và Demo Travis CI - K To Mis ',
         team: [
             { name: 'ho duy khang' },
             { name: 'k to mis ' },
